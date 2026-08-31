@@ -1,1 +1,10 @@
+# Ignore all video formats
 *.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.webm
+*.flv
+*.m4v
+*.3gp
